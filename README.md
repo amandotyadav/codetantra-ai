@@ -101,6 +101,10 @@ UI or the prompt logic needing to know which one is active.
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | ![CodeTantra AI panel open on an exercise page](./assets/screenshots/panel-open.png) | ![Streamed code, explanation, and complexity](./assets/screenshots/panel-result.png) |
 
+| Panel in dark mode                                                                                 | Generated solution in dark mode                                                     |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| ![CodeTantra AI panel following CodeTantra's dark theme](./assets/screenshots/panel-open-dark.png) | ![Streamed solution shown in dark mode](./assets/screenshots/panel-result-dark.png) |
+
 | Settings page                                                                           | Help page                                            |
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | ![Settings page for choosing a provider and API key](./assets/screenshots/settings.png) | ![Built-in help page](./assets/screenshots/help.png) |
