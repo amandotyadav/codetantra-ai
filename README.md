@@ -97,13 +97,13 @@ UI or the prompt logic needing to know which one is active.
 
 ## Screenshots
 
-<!--
-  Add real screenshots here before publishing, e.g.:
-  ![Panel showing a generated solution](./assets/screenshots/panel-result.png)
-  ![Settings page](./assets/screenshots/settings.png)
--->
+| Panel on a CodeTantra exercise                                                       | Generated solution                                                                   |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| ![CodeTantra AI panel open on an exercise page](./assets/screenshots/panel-open.png) | ![Streamed code, explanation, and complexity](./assets/screenshots/panel-result.png) |
 
-_Screenshots coming soon._
+| Settings page                                                                           | Help page                                            |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| ![Settings page for choosing a provider and API key](./assets/screenshots/settings.png) | ![Built-in help page](./assets/screenshots/help.png) |
 
 ## Installation
 
